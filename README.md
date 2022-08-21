@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Han Zaw Nyein</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzawnyein&label=Profile%20views&color=0e75b6&style=flat" alt="hanzawnyein" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/aggavillain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aggamultiacademy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hanzawnyeincoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aggamultiacademy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
