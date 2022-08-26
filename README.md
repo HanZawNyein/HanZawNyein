@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django,Odoo**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HanZawNyein](https://github.com/HanZawNyein)
+- 👨‍💻 All of my articles are available at [articles](https://github.com/HanZawNyein/articles)
 
 - 💬 Ask me about **Python, Django**
 
