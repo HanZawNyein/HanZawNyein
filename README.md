@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my articles are available at [articles](https://github.com/HanZawNyein/articles)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Odoo**
 
 - 📫 How to reach me **hanzawnyineonline@gmail.com**
 
