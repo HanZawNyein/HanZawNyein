@@ -10,6 +10,20 @@
 - 💬 Ask me about **Python, Django, Odoo**
 
 - 📫 How to reach me **hanzawnyineonline@gmail.com**
+- All of My Projects
+    
+    <h6>Python</h6>
+    <hr/>
+    <a href="https://github.com/HanZawNyein/chrome-profile-extractor">Chrome Profile Extractor</a>
+    <a href="https://github.com/HanZawNyein/own-language-with-python">Own Language with Python</a>
+    
+    <h6>Odoo</h6>
+    <hr/>
+    <a href="https://github.com/HanZawNyein/odoo_rest_api_library">Odoo RESTFul API Library</a>
+    <a href="https://github.com/HanZawNyein/access_right_management_community">Access Rights Management Community</a>
+    <a href="https://github.com/HanZawNyein/Time24H_Picker">Time Only Widget</a>
+    
+    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
