@@ -36,13 +36,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -96,10 +90,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![Profile views counter](https://komarev.com/ghpvc/?username=HanZawNyein&&style=flat-square)  
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
