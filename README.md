@@ -89,4 +89,24 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=HanZawNyein&&style=flat-square)  
   
+  ## Libraries
+  - <a href="https://pypi.org/project/chrome-profile-extractor/">chrome-profile-extractor</a>
+  - <a href="https://pypi.org/project/hzn-django-polls/">hzn-django-polls</a>
+  - <a href="https://pypi.org/project/odoo-rest-framework/">odoo-rest-framework</a>
+
+
+  ## All Projects
+  
+  ### Python3
+  - <a href="https://github.com/HanZawNyein/own-language-with-python">own-language-with-python</a>
+  
+  ### Django
+  - <a href="https://github.com/HanZawNyein/polls-django4.git">polls</a>
+  - <a href="https://github.com/HanZawNyein/polls-django4.git">polls</a>
+  
+  ### Odoo
+  - <a href="https://github.com/HanZawNyein/access_right_management_odoo16ce">Access Right Management (Odoo 16.0 Community & Enterprise) (Domain Access is private.)<a>
+  - <a href="https://github.com/HanZawNyein/access_right_management_community">Access Right Management (Odoo 14.0 & 15.0) (Community & Enterprise) (Domain Access is private.)<a>
+  - <a href="https://github.com/HanZawNyein/Time24H_Picker">Time24H_Picker</a>
+
 
