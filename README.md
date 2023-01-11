@@ -102,7 +102,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
   ### Django
   - <a href="https://github.com/HanZawNyein/polls-django4.git">polls</a>
-  - <a href="https://github.com/HanZawNyein/polls-django4.git">polls</a>
+  - <a href="https://github.com/HanZawNyein/django4-blogapplication">Blog Application</a>
   
   ### Odoo
   - <a href="https://github.com/HanZawNyein/access_right_management_odoo16ce">Access Right Management (Odoo 16.0 Community & Enterprise) (Domain Access is private.)<a>
