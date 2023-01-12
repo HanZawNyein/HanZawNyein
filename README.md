@@ -1,19 +1,3 @@
-## Hey 👋, I'm Han Zaw Nyein!  
-  
-
-<a href="https://github.com/HanZawNyein" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/hanzawnyein" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/hanzawnyeindev" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
@@ -24,6 +8,17 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <h1 align="center">Hi 👋, I'm Han Zaw Nyein</h1>
 <h3 align="center">A Backend Developer from Myanmar</h3>
+
+<a href="https://github.com/HanZawNyein" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/hanzawnyein" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/hanzawnyeindev" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzawnyein&label=Profile%20views&color=0e75b6&style=flat" alt="hanzawnyein" /> </p>
 
@@ -52,8 +47,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzawnyein&" alt="hanzawnyein" /></p>
 
-
-![Profile views counter](https://komarev.com/ghpvc/?username=HanZawNyein&&style=flat-square)  
   
   ## Libraries
   - <a href="https://pypi.org/project/chrome-profile-extractor/">chrome-profile-extractor</a>
