@@ -23,7 +23,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - 🌱 I’m currently learning **Django, Odoo Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HanZawNyein/HanZawNyein#libraries](https://github.com/HanZawNyein/HanZawNyein#libraries)
+- 👨‍💻 All of my projects are available at [here](https://github.com/HanZawNyein/HanZawNyein#libraries)
 
 - 💬 Ask me about **Django, Odoo**
 
