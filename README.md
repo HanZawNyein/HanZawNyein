@@ -38,8 +38,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzawnyein&show_icons=true&locale=en&layout=compact" alt="hanzawnyein" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzawnyein&show_icons=true&locale=en" alt="hanzawnyein" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzawnyein&" alt="hanzawnyein" /></p>
 
   
