@@ -60,15 +60,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/Time24H_Picker">Time24H_Picker</a>
   
   <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <th scope="row">1</th>
       <td>Mark</td>
@@ -86,7 +77,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
       <td colspan="2">Larry the Bird</td>
       <td>@twitter</td>
     </tr>
-  </tbody>
 </table>
 
 
