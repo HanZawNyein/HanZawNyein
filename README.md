@@ -37,7 +37,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
   
   ## Libraries
-    <table>
+<table>
     <tr>
       <th>
         <a href="https://pypi.org/project/chrome-profile-extractor/">chrome-profile-extractor</a>
