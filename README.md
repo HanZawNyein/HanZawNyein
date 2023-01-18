@@ -37,6 +37,31 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
   
   ## Libraries
+    <table>
+    <tr>
+      <th>
+        <a href="https://pypi.org/project/chrome-profile-extractor/">chrome-profile-extractor</a>
+      </th>
+      <td>
+        <a href="https://pypi.org/project/hzn-django-polls/">hzn-django-polls</a>
+      </td>
+      <td>
+        <a href="https://pypi.org/project/odoo-rest-framework/">odoo-rest-framework</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+</table>
+
   - <a href="https://pypi.org/project/chrome-profile-extractor/">chrome-profile-extractor</a>
   - <a href="https://pypi.org/project/hzn-django-polls/">hzn-django-polls</a>
   - <a href="https://pypi.org/project/odoo-rest-framework/">odoo-rest-framework</a>
@@ -59,7 +84,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/access_right_management_community">Access Right Management (Odoo 14.0 & 15.0) (Community & Enterprise) (Domain Access is private.)<a>
   - <a href="https://github.com/HanZawNyein/Time24H_Picker">Time24H_Picker</a>
   
-  <table class="table">
+  <table>
     <tr>
       <th scope="row">1</th>
       <td>Mark</td>
