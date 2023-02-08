@@ -47,6 +47,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
   ### Python3
   - <a href="https://github.com/HanZawNyein/own-language-with-python">own-language-with-python</a>
   
+  ### FastAPI
+   - <a href="https://github.com/HanZawNyein/planner-fastapi.git">Event Planner</a>
+  
   ### Django
   - <a href="https://github.com/HanZawNyein/polls-django4.git">polls</a>
   - <a href="https://github.com/HanZawNyein/django4-blogapplication">Blog Application</a>
