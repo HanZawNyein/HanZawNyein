@@ -49,6 +49,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
   ### FastAPI
    - <a href="https://github.com/HanZawNyein/planner-fastapi.git">Event Planner</a>
+   - <a href="https://github.com/HanZawNyein/sse-fastapi">Server Sent Events</a>
   
   ### Django
   - <a href="https://github.com/HanZawNyein/polls-django4.git">polls</a>
