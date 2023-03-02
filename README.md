@@ -46,6 +46,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
   ### Python3
   - <a href="https://github.com/HanZawNyein/own-language-with-python">own-language-with-python</a>
+  - <a href="https://github.com/HanZawNyein/face-recognition-python3.git">Face Recognition</a>
+  - <a href="https://github.com/HanZawNyein/extract-text-from-image-python3">Extract Text From Image</a>
   
   ### FastAPI
    - <a href="https://github.com/HanZawNyein/planner-fastapi.git">Event Planner</a>
