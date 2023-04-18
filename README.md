@@ -78,5 +78,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/user_list_api_flutter">User List API</a>
   - <a href="https://github.com/HanZawNyein/todo_app_curd_flutter">Todo App CRUD with Rest API </a>
   - <a href="https://github.com/HanZawNyein/scrollable_drawer_flutter">Scrollable Drawer</a>
+  - <a href="https://github.com/HanZawNyein/firebase_setup_tutorial">Firebase x Flutter </a>
 
 
