@@ -48,6 +48,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/own-language-with-python">own-language-with-python</a>
   - <a href="https://github.com/HanZawNyein/face-recognition-python3.git">Face Recognition</a>
   - <a href="https://github.com/HanZawNyein/extract-text-from-image-python3">Extract Text From Image</a>
+  - <a href="https://github.com/HanZawNyein/idea_code_academy_framework.git">Build a Web Framework</a>
   
   ### FastAPI
    - <a href="https://github.com/HanZawNyein/planner-fastapi.git">Event Planner</a>
@@ -64,8 +65,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/access_right_management_odoo16ce">Access Right Management (Odoo 16.0 Community & Enterprise) (Domain Access is private.)<a>
   - <a href="https://github.com/HanZawNyein/access_right_management_community">Access Right Management (Odoo 14.0 & 15.0) (Community & Enterprise) (Domain Access is private.)<a>
   - <a href="https://github.com/HanZawNyein/Time24H_Picker">Time24H_Picker</a>
-<!--   - <a href="https://github.com/HanZawNyein/odoo_pdf_report_for_mm.git">Myanmar PDF Report</a> -->
-  
+  - <a href="https://github.com/HanZawNyein/manual_exchange_rate_odoo15c">Manual Exchange Currency Rate in Invoice (odoo15.0 Community)</a>
+  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c.git">Todo list with OWL (Odoo 16 Community)</a>
+    
   ### Javascript
   
   ### Express
