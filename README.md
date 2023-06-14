@@ -66,8 +66,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/access_right_management_community">Access Right Management (Odoo 14.0 & 15.0) (Community & Enterprise) (Domain Access is private.)<a>
   - <a href="https://github.com/HanZawNyein/Time24H_Picker">Time24H_Picker</a>
   - <a href="https://github.com/HanZawNyein/manual_exchange_rate_odoo15c">Manual Exchange Currency Rate in Invoice (odoo15.0 Community)</a>
-  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c.git">Todo list with OWL (Odoo 16 Community)</a>
   - <a href="https://github.com/HanZawNyein/odoo15c_company_sorting">Company Sorting ASC in Nav Bar ( odoo 15 Community)</a>
+  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c.git">Todo list with OWL (Odoo 16 Community)</a>
+  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/view_inherit">View Inherit (Tree,Kanban)(Odoo 16 Community)</a>
   
   ### Javascript
   
