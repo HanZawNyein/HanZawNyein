@@ -68,7 +68,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/manual_exchange_rate_odoo15c">Manual Exchange Currency Rate in Invoice (odoo15.0 Community)</a>
   - <a href="https://github.com/HanZawNyein/odoo15c_company_sorting">Company Sorting ASC in Nav Bar ( odoo 15 Community)</a>
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c.git">Todo list with OWL (Odoo 16 Community)</a>
-  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/view_inherit">View Inherit (Tree,Kanban)(Odoo 16 Community)</a>
+  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/view_inherit">View Inherit (Form, Tree,Kanban)(Odoo 16 Community)</a>
   
   ### Javascript
   
