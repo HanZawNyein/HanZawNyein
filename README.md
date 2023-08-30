@@ -72,7 +72,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/field_inherit">Field Inherit or Custom Field (Range, Username Field (Odoo 16 Community)</a>
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/services">Odoo Owl Services</a>
   - <a href="https://github.com/HanZawNyein/hz_barcode_scanner.git">ODOO barcode scanner</a>
-  - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Comapny Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>
+  - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Company Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>
   
   ### Javascript
   
