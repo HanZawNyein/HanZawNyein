@@ -38,7 +38,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
   ## Libraries
   - <a href="https://pypi.org/project/chrome-profile-extractor/">chrome-profile-extractor</a>
-  - <a href="https://pypi.org/project/hzn-django-polls/">hzn-django-polls</a>
   - <a href="https://pypi.org/project/odoo-rest-framework/">odoo-rest-framework</a>
 
 
@@ -46,25 +45,18 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
   ### Python3
   - <a href="https://github.com/HanZawNyein/own-language-with-python">own-language-with-python</a>
-  - <a href="https://github.com/HanZawNyein/face-recognition-python3.git">Face Recognition</a>
-  - <a href="https://github.com/HanZawNyein/extract-text-from-image-python3">Extract Text From Image</a>
   - <a href="https://github.com/HanZawNyein/idea_code_academy_framework.git">Build a Web Framework</a>
   
   ### FastAPI
-   - <a href="https://github.com/HanZawNyein/planner-fastapi.git">Event Planner</a>
    - <a href="https://github.com/HanZawNyein/sse-fastapi">Server Sent Events</a>
   
-  ### Django
-  - <a href="https://github.com/HanZawNyein/polls-django4.git">polls</a>
-  - <a href="https://github.com/HanZawNyein/django4-blogapplication">Blog Application</a>
-  - <a href="https://github.com/HanZawNyein/django4-SocialWebsite">Social Website</a>
-  - <a href="https://github.com/HanZawNyein/django4-OnlineShop">Online Shop</a>
-  - <a href="https://github.com/HanZawNyein/Django4-E-Learning-Platform">E-Learning Platform</a>
+  ### Odoo Apps Store
+  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
+  - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting//">Company Sorting & Search Box in Navbar 15.0</a>
   
-  ### Odoo
+  ### Odoo Apps
   - <a href="https://github.com/HanZawNyein/access_right_management_odoo16ce">Access Right Management (Odoo 16.0 Community & Enterprise) (Domain Access is private.)<a>
   - <a href="https://github.com/HanZawNyein/access_right_management_community">Access Right Management (Odoo 14.0 & 15.0) (Community & Enterprise) (Domain Access is private.)<a>
-  - <a href="https://github.com/HanZawNyein/Time24H_Picker">Time24H_Picker</a>
   - <a href="https://github.com/HanZawNyein/manual_exchange_rate_odoo15c">Manual Exchange Currency Rate in Invoice (odoo15.0 Community)</a>
   - <a href="https://github.com/HanZawNyein/odoo15c_company_sorting">Company Sorting ASC in Nav Bar ( odoo 15 Community)</a>
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c.git">Todo list with OWL (Odoo 16 Community)</a>
@@ -74,18 +66,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/hz_barcode_scanner.git">Odoo barcode scanner</a>
   - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Company Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>
   
-  ### Javascript
   
-  ### Express
-  - <a href="https://github.com/HanZawNyein/workout-mern-stack.git">Workout</a>
-  
-  ### Flutter
-  - <a href="https://github.com/HanZawNyein/awesome_quotes_flutter">Awesome Quotes</a>
-  - <a href="https://github.com/HanZawNyein/telegam_clone.git">Telegram Clone UI </a>
-  - <a href="https://github.com/HanZawNyein/real_world_time_app_flutter">Real World Time </a>
-  - <a href="https://github.com/HanZawNyein/user_list_api_flutter">User List API</a>
-  - <a href="https://github.com/HanZawNyein/todo_app_curd_flutter">Todo App CRUD with Rest API </a>
-  - <a href="https://github.com/HanZawNyein/scrollable_drawer_flutter">Scrollable Drawer</a>
-  - <a href="https://github.com/HanZawNyein/firebase_setup_tutorial">Firebase x Flutter </a>
-
 
