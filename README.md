@@ -68,3 +68,18 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
   
 
+  ## Odoo Apps Store
+  
+  ### 15.0
+  - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">Company Sorting & Search in Odoo Navigation Bar</a>
+
+  ### 16.0
+  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>
+
+  ### 17.0
+  - <a href="https://apps.odoo.com/apps/modules/17.0/google_map_simulation/">Google Map Simulator</a>
+  - <a href="https://apps.odoo.com/apps/modules/17.0/json_rpc_integration/>All in One JSON RPC</a>
+  - <a href="https://apps.odoo.com/apps/modules/17.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>
