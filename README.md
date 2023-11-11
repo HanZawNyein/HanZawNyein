@@ -78,6 +78,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">Partner Detail Edit in POS Screen</a>
 
   ### 17.0
   - <a href="https://apps.odoo.com/apps/modules/17.0/google_map_simulation/">Google Map Simulator</a>
