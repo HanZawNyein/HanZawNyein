@@ -51,7 +51,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
    - <a href="https://github.com/HanZawNyein/sse-fastapi">Server Sent Events</a>
   
   ### Odoo Apps Store
-  [comment]: <> (- <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
+  [//]: <> (- <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
   - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting//">Company Sorting & Search Box in Navbar 15.0</a>
   
   ### Odoo Apps
