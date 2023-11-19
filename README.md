@@ -72,6 +72,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   ## Odoo Apps Store
   
   ### 15.0
+  #### (16.0 continue)
   - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">Company Sorting & Search in Odoo Navigation Bar</a>
 
   ### 16.0
@@ -83,7 +84,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://apps.odoo.com/apps/modules/16.0/hz_hide_attribute/">HZ Hide Attribute</a>
   
 
-  #### (16.0 continue)
+  #### (17.0 continue)
   - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
@@ -99,6 +100,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
   - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">Post Partner Detail Edit</a>
 
-  #### (16.0 only)
+  #### (17.0 only)
   - <a href="https://apps.odoo.com/apps/modules/17.0/hz_dashboard/">HZ Dashboard</a>
   
