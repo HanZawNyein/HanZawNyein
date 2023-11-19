@@ -83,7 +83,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://apps.odoo.com/apps/modules/16.0/hz_hide_attribute/">HZ Hide Attribute</a>
   
 
-  #### (17.0 conitue)
+  #### (16.0 conitue)
   - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
