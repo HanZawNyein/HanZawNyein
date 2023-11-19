@@ -51,7 +51,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
    - <a href="https://github.com/HanZawNyein/sse-fastapi">Server Sent Events</a>
   
   ### Odoo Apps Store
-  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
+  [comment]: <> (- <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
   - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting//">Company Sorting & Search Box in Navbar 15.0</a>
   
   ### Odoo Apps
@@ -64,7 +64,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/field_inherit">Field Inherit or Custom Field (Range, Username Field (Odoo 16 Community)</a>
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/services">Odoo Owl Services</a>
   - <a href="https://github.com/HanZawNyein/hz_barcode_scanner.git">Odoo barcode scanner</a>
-  - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Company Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>
+  - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Company Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>)
   
   
 
@@ -74,14 +74,30 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">Company Sorting & Search in Odoo Navigation Bar</a>
 
   ### 16.0
-  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
+  
+  #### (15.0 updated)
+  - <a href="https://apps.odoo.com/apps/modules/16.0/hz_company_sorting/">Company Sorting & Search in Odoo Navigation Bar</a>
+  
+  #### (16.0 only)
+  - <a href="https://apps.odoo.com/apps/modules/16.0/hz_hide_attribute/">HZ Hide Attribute</a>
+  
+
+  #### (17.0 conitue)
   - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">Partner Detail Edit in POS Screen</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
+  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">Post Partner Detail Edit</a>
 
-  ### 17.0
-  - <a href="https://apps.odoo.com/apps/modules/17.0/google_map_simulation/">Google Map Simulator</a>
-  - <a href="https://apps.odoo.com/apps/modules/17.0/json_rpc_integration"/>All in One JSON RPC</a>
-  - <a href="https://apps.odoo.com/apps/modules/17.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>
+  ### 17.0 
+
+  #### (16.0 updated)
+  - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
+  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">Post Partner Detail Edit</a>
+
+  #### (16.0 only)
   - <a href="https://apps.odoo.com/apps/modules/17.0/hz_dashboard/">HZ Dashboard</a>
+  
