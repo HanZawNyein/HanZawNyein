@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Han Zaw Nyein</h1>
-<h3 align="center">A Backend Developer from Myanmar</h3>
+<h3 align="center">A Developer from Myanmar</h3>
 
 <a href="https://github.com/HanZawNyein" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -39,7 +39,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   ## Libraries
   - <a href="https://pypi.org/project/chrome-profile-extractor/">chrome-profile-extractor</a>
   - <a href="https://pypi.org/project/odoo-rest-framework/">odoo-rest-framework</a>
-
 
   ## All Projects
   
@@ -94,11 +93,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
   ### 17.0 
 
   #### (16.0 updated)
-  - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
-  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">Post Partner Detail Edit</a>
+  - <a href="https://apps.odoo.com/apps/modules/17.0/google_map_simulation/">Google Map Simulator</a>
+  - <a href="https://apps.odoo.com/apps/modules/17.0/json_rpc_integration/">All in One JSON RPC</a>
+  - <a href="https://apps.odoo.com/apps/modules/17.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
+  - <a href="https://apps.odoo.com/apps/modules/17.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
+  - <a href="https://apps.odoo.com/apps/modules/17.0/partner_detail_edit_fields/">Post Partner Detail Edit</a>
 
   #### (17.0 only)
   - <a href="https://apps.odoo.com/apps/modules/17.0/hz_dashboard/">HZ Dashboard</a>
