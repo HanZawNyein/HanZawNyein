@@ -88,7 +88,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
   - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
-  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">Post Partner Detail Edit</a>
+  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">POS Partner Detail Edit</a>
 
   ### 17.0 
 
@@ -97,7 +97,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://apps.odoo.com/apps/modules/17.0/json_rpc_integration/">All in One JSON RPC</a>
   - <a href="https://apps.odoo.com/apps/modules/17.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
   - <a href="https://apps.odoo.com/apps/modules/17.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
-  - <a href="https://apps.odoo.com/apps/modules/17.0/partner_detail_edit_fields/">Post Partner Detail Edit</a>
+  - <a href="https://apps.odoo.com/apps/modules/17.0/partner_detail_edit_fields/">POS Partner Detail Edit</a>
 
   #### (17.0 only)
   - <a href="https://apps.odoo.com/apps/modules/17.0/hz_dashboard/">HZ Dashboard</a>
