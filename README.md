@@ -50,8 +50,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
   ### FastAPI
    - <a href="https://github.com/HanZawNyein/sse-fastapi">Server Sent Events</a>
   
+  <!--
   ### Odoo Apps Store
-  [//]: <> (- <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
+  
+  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
   - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting//">Company Sorting & Search Box in Navbar 15.0</a>
   
   ### Odoo Apps
@@ -64,9 +66,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/field_inherit">Field Inherit or Custom Field (Range, Username Field (Odoo 16 Community)</a>
   - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/services">Odoo Owl Services</a>
   - <a href="https://github.com/HanZawNyein/hz_barcode_scanner.git">Odoo barcode scanner</a>
-  - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Company Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>)
-  
-  
+  - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Company Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>
+  -->
 
   ## Odoo Apps Store
   
