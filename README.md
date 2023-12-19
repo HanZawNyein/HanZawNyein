@@ -15,7 +15,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzawnyein&label=Profile%20views&color=0e75b6&style=flat" alt="hanzawnyein" /> </p>
-###### Committers
+<!-- ###### Committers -->
 
 [![committers.top badge](https://user-badge.committers.top/myanmar/HanZawNyein.svg)](https://user-badge.committers.top/myanmar/HanZawNyein)
 
