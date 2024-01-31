@@ -51,57 +51,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
   ### FastAPI
    - <a href="https://github.com/HanZawNyein/sse-fastapi">Server Sent Events</a>
-  
-  <!--
-  ### Odoo Apps Store
-  
-  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen (16.0 Community,Enterprise & Odoo.sh)</a>
-  - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting//">Company Sorting & Search Box in Navbar 15.0</a>
-  
-  ### Odoo Apps
-  - <a href="https://github.com/HanZawNyein/access_right_management_odoo16ce">Access Right Management (Odoo 16.0 Community & Enterprise) (Domain Access is private.)<a>
-  - <a href="https://github.com/HanZawNyein/access_right_management_community">Access Right Management (Odoo 14.0 & 15.0) (Community & Enterprise) (Domain Access is private.)<a>
-  - <a href="https://github.com/HanZawNyein/manual_exchange_rate_odoo15c">Manual Exchange Currency Rate in Invoice (odoo15.0 Community)</a>
-  - <a href="https://github.com/HanZawNyein/odoo15c_company_sorting">Company Sorting ASC in Nav Bar ( odoo 15 Community)</a>
-  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c.git">Todo list with OWL (Odoo 16 Community)</a>
-  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/view_inherit">View Inherit (Form, Tree,Kanban)(Odoo 16 Community)</a>
-  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/field_inherit">Field Inherit or Custom Field (Range, Username Field (Odoo 16 Community)</a>
-  - <a href="https://github.com/HanZawNyein/owl_todo_list_odoo16c/tree/services">Odoo Owl Services</a>
-  - <a href="https://github.com/HanZawNyein/hz_barcode_scanner.git">Odoo barcode scanner</a>
-  - <a href="https://github.com/HanZawNyein/hz_company_sorting_and_search">Company Sorting & Search in Nav Bar</a><a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">(Odoo App Store)</a>
-  -->
 
-  ## Odoo Apps Store
-  
-  ### 15.0
-  #### (16.0 continue)
-  - <a href="https://apps.odoo.com/apps/modules/15.0/hz_company_sorting/">Company Sorting & Search in Odoo Navigation Bar</a>
+  ## Odoo Apps Store - 
 
-  ### 16.0
-  
-  #### (15.0 updated)
-  - <a href="https://apps.odoo.com/apps/modules/16.0/hz_company_sorting/">Company Sorting & Search in Odoo Navigation Bar</a>
-  
-  #### (16.0 only)
-  - <a href="https://apps.odoo.com/apps/modules/16.0/hz_hide_attribute/">HZ Hide Attribute</a>
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-  #### (17.0 continue)
-  - <a href="https://apps.odoo.com/apps/modules/16.0/google_map_simulation/">Google Map Simulator</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/json_rpc_integration/">All in One JSON RPC</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
-  - <a href="https://apps.odoo.com/apps/modules/16.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
-  - <a href="https://apps.odoo.com/apps/modules/16.0/partner_detail_edit_fields/">POS Partner Detail Edit</a>
-
-  ### 17.0 
-
-  #### (16.0 updated)
-  - <a href="https://apps.odoo.com/apps/modules/17.0/google_map_simulation/">Google Map Simulator</a>
-  - <a href="https://apps.odoo.com/apps/modules/17.0/json_rpc_integration/">All in One JSON RPC</a>
-  - <a href="https://apps.odoo.com/apps/modules/17.0/order_note_in_pos_screen/">Order Note in POS Screen</a>
-  - <a href="https://apps.odoo.com/apps/modules/17.0/pos_hide_create_invoice_button/">Hide Create Invoice Button in POS Payment Screen</a>  
-  - <a href="https://apps.odoo.com/apps/modules/17.0/partner_detail_edit_fields/">POS Partner Detail Edit</a>
-
-  #### (17.0 only)
-  - <a href="https://apps.odoo.com/apps/modules/17.0/hz_dashboard/">HZ Dashboard</a>
   
