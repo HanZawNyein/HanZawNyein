@@ -44,5 +44,3 @@
    - <a href="https://github.com/HanZawNyein/sse-fastapi">Server Sent Events</a>
 
   ## Odoo Apps Store - [details](https://apps.odoo.com/apps/browse?repo_maintainer_id=491299)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanZawNyein&langs_count=100)  
