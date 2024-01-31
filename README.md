@@ -24,8 +24,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzawnyein" alt="hanzawnyein" /></a> </p>
-
 - 🌱 I’m currently learning **FastAPI, Django, Odoo Framework**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/HanZawNyein/HanZawNyein#libraries)
