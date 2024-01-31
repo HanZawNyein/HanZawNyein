@@ -54,6 +54,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
   ## Odoo Apps Store - [details](https://apps.odoo.com/apps/browse?repo_maintainer_id=491299)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanZawNyein)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanZawNyein&size_weight=0.5&count_weight=0.5)
   
