@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI,Django,Odoo,Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HanZawNyein/HanZawNyein/blob/main/README.md](https://github.com/HanZawNyein/HanZawNyein/blob/main/README.md)
+- 👨‍💻 All of my projects are available at [https://github.com/HanZawNyein?tab=repositories](https://github.com/HanZawNyein?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.facebook.com/ideacodeacademy](https://www.facebook.com/ideacodeacademy)
 
