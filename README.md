@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HanZawNyein?tab=repositories](https://github.com/HanZawNyein?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.facebook.com/ideacodeacademy](https://www.facebook.com/ideacodeacademy)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/hanzawnyein/](https://www.linkedin.com/in/hanzawnyein/)
 
 - 💬 Ask me about **Python,Odoo**
 
