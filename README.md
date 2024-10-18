@@ -5,6 +5,12 @@
 
 [![committers.top badge](https://user-badge.committers.top/myanmar/HanZawNyein.svg)](https://user-badge.committers.top/myanmar/HanZawNyein)
 
+[![committers.top badge](https://user-badge.committers.top/myanmar_public/HanZawNyein.svg)](https://user-badge.committers.top/myanmar_public/HanZawNyein)
+
+[![committers.top badge](https://user-badge.committers.top/myanmar_private/HanZawNyein.svg)](https://user-badge.committers.top/myanmar_private/HanZawNyein)
+
+
+
 - 🌱 I’m currently learning **FastAPI,Django,Odoo,Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HanZawNyein?tab=repositories](https://github.com/HanZawNyein?tab=repositories)
